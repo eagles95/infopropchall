@@ -1,0 +1,19 @@
+{
+  "name": "info-prop-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "express-fileupload": "^0.4.0",
+    "request": "^2.88.0"
+  },
+  "author": "eagles95",
+  "license": "ISC"
+}

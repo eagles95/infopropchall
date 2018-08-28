@@ -1,0 +1,87 @@
+#Navbar{
+  background-color: #f56363;
+  color : white;
+  width: 100%;
+  margin:auto;
+  padding:10px;
+  border-radius: 0px 0px 40px 40px;
+  box-shadow: 0px 10px #dfdede;
+}
+
+#logo{
+  padding: 10px;
+  display:block;
+  margin:auto;
+}
+
+#search{
+  margin-top: 13px;
+  width: 80%;
+  background-color : #a13838;
+  border-width: 0px;
+  border-style: solid #f56363;
+  border-radius:  10px 0px 0px 10px;
+  padding:5px;
+  color : white;
+
+}
+
+::placeholder{
+  color: white;
+}
+#search-icon{
+  background-color : #a13838;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-bottom: 9px;
+  padding-left: 8px;
+  border-radius: 0px 10px 10px 0px;
+}
+
+.csv-btn{
+  margin-top : 12px;
+  text-align: center;
+  display: inline-block;
+  background-color: white;
+  color : #f56363;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  background-color: white;
+  display: block;
+  float: right;
+  color:#f56363;
+  padding: 6px;
+  margin-top:10px;
+  cursor: pointer;
+  border-radius: 10px 10px 10px 10px;
+  font-size: 20px;
+}
+
+.upload-col{
+  display: inline-block;
+}
+
+/* unvisited link */
+.link:link {
+  color :white;
+}
+
+/* visited link */
+.link:visited {
+  color :white;
+}
+
+/* mouse over link */
+.link:hover {
+  color:blue;
+}
+
+/* selected link */
+.link:active {
+  color: blue;
+}

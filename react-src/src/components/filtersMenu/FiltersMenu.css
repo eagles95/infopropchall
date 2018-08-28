@@ -1,0 +1,52 @@
+#title{
+    padding:7px;
+    border:0px;
+    border-radius: 0px 10px 10px 0px;
+    color:white;
+}
+
+#menu{
+    color :  #f56363;
+    background-color: #f56363;
+    border:1px;
+    width: 100%;
+    margin:auto;
+    border-color: #f56363;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.input-div{
+    background-color: white;
+    border: 0px;
+    border-radius: 10px 10px 10px 10px;
+    margin:6px;
+    padding:5px;
+    font-size: 15px;
+    
+}
+
+.input-filter{
+    width:60%;
+    border: solid 2px;
+    border-color:#f56363;
+    border-radius: 5px 5px 5px 5px;
+    background-color : #a13838;
+    color:white;  
+    margin:3px ;
+
+}
+
+.apply-btn{
+    background-color: white;
+    margin:3px;
+    border-radius: 5px 5px 5px 5px;
+    color:#f56363;
+
+}
+
+.x-btn{
+    background-color: #f56363;
+    color: white;
+    float: right;
+    font-size: 10px;
+}
